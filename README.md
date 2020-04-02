@@ -14,8 +14,11 @@
 #### 資料大小：
 * Trainning Data : 891 rows * 12 columns (60 KB)
 * Testing Data : 418 rows * 11 columns (28 KB)
-#### [資料來源](https://www.kaggle.com/c/titanic) |  [程式碼](https://github.com/albert90162/PUBG-finish-placement-prediction/blob/master/PUBG_EDA%20and%20Visualization.ipynb)
-
+#### [資料來源](https://www.kaggle.com/c/titanic) 
+#### 程式碼:  
+* [預測與特徵工程](https://github.com/albert90162/Titanic/blob/master/Prediction.ipynb) 
+* [視覺化分析與 EDA ](https://github.com/albert90162/Titanic/blob/master/EDA%20and%20Visualizations.ipynb)
+    
 <br>
 
 ## 目錄：
